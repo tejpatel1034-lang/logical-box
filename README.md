@@ -49,4 +49,4 @@ This project is designed to strengthen logical thinking and problem-solving skil
                    2. Analyze a Range of Numbers
                    3. Exit
 ### Author
-Tej Patel
+Patel Tej
